@@ -1,0 +1,2 @@
+# KancolleDictionary
+Google日本語入力用の艦これ辞書
